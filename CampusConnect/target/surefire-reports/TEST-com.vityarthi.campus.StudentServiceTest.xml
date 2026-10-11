@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="com.vityarthi.campus.StudentServiceTest" time="0.17" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="26"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\vityarthi\CampusConnect\target\test-classes;C:\vityarthi\CampusConnect\target\classes;C:\Users\Venkata Avinash\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.2\junit-jupiter-5.10.2.jar;C:\Users\Venkata Avinash\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Users\Venkata Avinash\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Venkata Avinash\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Users\Venkata Avinash\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Venkata Avinash\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.2\junit-jupiter-params-5.10.2.jar;C:\Users\Venkata Avinash\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Users\Venkata Avinash\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="26"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-26.0.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\Venkata Avinash\AppData\Local\Temp\surefire3415855365039334539\surefirebooter-20261011123116971_3.jar C:\Users\Venkata Avinash\AppData\Local\Temp\surefire3415855365039334539 2026-10-11T12-31-16_716-jvmRun1 surefire-20261011123116971_1tmp surefire_0-20261011123116971_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\vityarthi\CampusConnect\target\test-classes;C:\vityarthi\CampusConnect\target\classes;C:\Users\Venkata Avinash\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.2\junit-jupiter-5.10.2.jar;C:\Users\Venkata Avinash\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Users\Venkata Avinash\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Venkata Avinash\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Users\Venkata Avinash\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Venkata Avinash\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.2\junit-jupiter-params-5.10.2.jar;C:\Users\Venkata Avinash\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Users\Venkata Avinash\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Venkata Avinash"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2026-04-21"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-26.0.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\vityarthi\CampusConnect"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Venkata Avinash\AppData\Local\Temp\surefire3415855365039334539\surefirebooter-20261011123116971_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="26.0.1+8-34"/>
+    <property name="user.name" value="Venkata Avinash"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Venkata Avinash\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\VENKAT~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="26.0.1"/>
+    <property name="user.dir" value="C:\vityarthi\CampusConnect"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-26.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Users\Venkata Avinash\AppData\Local\Programs\Python\Python314\Scripts\;C:\Users\Venkata Avinash\AppData\Local\Programs\Python\Python314\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Go\bin;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\pcsuite\;C:\Program Files\swipl\bin;C:\Program Files\nodejs\;C:\Program Files\Java\jdk-26.0.1\bin;C:\Users\Venkata Avinash\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Venkata Avinash\AppData\Local\Programs\Python\Python310\;C:\Users\Venkata Avinash\AppData\Local\Microsoft\WindowsApps;C:\Users\Venkata Avinash\Desktop\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm 2025.1.3.1\bin;C:\Users\Venkata Avinash\AppData\Local\GitHubDesktop\bin;C:\Users\Venkata Avinash\go\bin;C:\Users\Venkata Avinash\AppData\Local\Python\bin;C:\Users\Venkata Avinash\AppData\Local\Programs\Ollama;C:\Users\Venkata Avinash\AppData\Roaming\npm;C:\Program Files\apache-maven-3.9.16\bin;C:\Program Files\MySQL\MySQL Server 26.7\bin;C:\Program Files (x86)\pcsuite\VClaw\resources\cli;c:\Users\Venkata Avinash\Desktop\Microsoft VS Code\2a59476c9b\resources\app\node_modules.asar.unpacked\@vscode\ripgrep-universal\bin\win32-x64;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="26.0.1+8-34"/>
+    <property name="stdin.encoding" value="Cp1252"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="70.0"/>
+  </properties>
+  <testcase name="eventBookingShouldReduceSeatCountAndReload" classname="com.vityarthi.campus.StudentServiceTest" time="0.102">
+    <system-err><![CDATA[[persistence] Data directory: C:\Users\VENKAT~1\AppData\Local\Temp\junit13871079741277835654
+[persistence] No saved data file yet: C:\Users\VENKAT~1\AppData\Local\Temp\junit13871079741277835654\students.ser
+[persistence] No saved data file yet: C:\Users\VENKAT~1\AppData\Local\Temp\junit13871079741277835654\events.ser
+[persistence] No saved data file yet: C:\Users\VENKAT~1\AppData\Local\Temp\junit13871079741277835654\bookings.ser
+[persistence] Saved 1 students to C:\Users\VENKAT~1\AppData\Local\Temp\junit13871079741277835654\students.ser
+[persistence] Saved 1 events to C:\Users\VENKAT~1\AppData\Local\Temp\junit13871079741277835654\events.ser
+[persistence] Saved 0 bookings to C:\Users\VENKAT~1\AppData\Local\Temp\junit13871079741277835654\bookings.ser
+[persistence] Saved 1 events to C:\Users\VENKAT~1\AppData\Local\Temp\junit13871079741277835654\events.ser
+[persistence] Saved 1 bookings to C:\Users\VENKAT~1\AppData\Local\Temp\junit13871079741277835654\bookings.ser
+[persistence] Data directory: C:\Users\VENKAT~1\AppData\Local\Temp\junit13871079741277835654
+[persistence] Loaded 1 students from C:\Users\VENKAT~1\AppData\Local\Temp\junit13871079741277835654\students.ser
+[persistence] Loaded 1 events from C:\Users\VENKAT~1\AppData\Local\Temp\junit13871079741277835654\events.ser
+[persistence] Loaded 1 bookings from C:\Users\VENKAT~1\AppData\Local\Temp\junit13871079741277835654\bookings.ser
+]]></system-err>
+  </testcase>
+  <testcase name="cancellationAndSeatAvailabilityPersistAcrossReload" classname="com.vityarthi.campus.StudentServiceTest" time="0.042">
+    <system-err><![CDATA[[persistence] Data directory: C:\Users\VENKAT~1\AppData\Local\Temp\junit18400338786419246595
+[persistence] No saved data file yet: C:\Users\VENKAT~1\AppData\Local\Temp\junit18400338786419246595\students.ser
+[persistence] No saved data file yet: C:\Users\VENKAT~1\AppData\Local\Temp\junit18400338786419246595\events.ser
+[persistence] No saved data file yet: C:\Users\VENKAT~1\AppData\Local\Temp\junit18400338786419246595\bookings.ser
+[persistence] Saved 1 students to C:\Users\VENKAT~1\AppData\Local\Temp\junit18400338786419246595\students.ser
+[persistence] Saved 1 events to C:\Users\VENKAT~1\AppData\Local\Temp\junit18400338786419246595\events.ser
+[persistence] Saved 0 bookings to C:\Users\VENKAT~1\AppData\Local\Temp\junit18400338786419246595\bookings.ser
+[persistence] Saved 1 events to C:\Users\VENKAT~1\AppData\Local\Temp\junit18400338786419246595\events.ser
+[persistence] Saved 1 bookings to C:\Users\VENKAT~1\AppData\Local\Temp\junit18400338786419246595\bookings.ser
+[persistence] Saved 1 events to C:\Users\VENKAT~1\AppData\Local\Temp\junit18400338786419246595\events.ser
+[persistence] Saved 1 bookings to C:\Users\VENKAT~1\AppData\Local\Temp\junit18400338786419246595\bookings.ser
+[persistence] Data directory: C:\Users\VENKAT~1\AppData\Local\Temp\junit18400338786419246595
+[persistence] Loaded 1 students from C:\Users\VENKAT~1\AppData\Local\Temp\junit18400338786419246595\students.ser
+[persistence] Loaded 1 events from C:\Users\VENKAT~1\AppData\Local\Temp\junit18400338786419246595\events.ser
+[persistence] Loaded 1 bookings from C:\Users\VENKAT~1\AppData\Local\Temp\junit18400338786419246595\bookings.ser
+]]></system-err>
+  </testcase>
+  <testcase name="registerStudentShouldCreateStudentWithGeneratedId" classname="com.vityarthi.campus.StudentServiceTest" time="0.013">
+    <system-err><![CDATA[[persistence] Data directory: C:\Users\VENKAT~1\AppData\Local\Temp\junit2510470962017163449
+[persistence] No saved data file yet: C:\Users\VENKAT~1\AppData\Local\Temp\junit2510470962017163449\students.ser
+[persistence] Saved 1 students to C:\Users\VENKAT~1\AppData\Local\Temp\junit2510470962017163449\students.ser
+]]></system-err>
+  </testcase>
+</testsuite>

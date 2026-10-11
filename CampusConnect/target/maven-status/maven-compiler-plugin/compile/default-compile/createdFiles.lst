@@ -1,0 +1,8 @@
+com\vityarthi\campus\service\StudentService.class
+com\vityarthi\campus\model\Event.class
+com\vityarthi\campus\service\EventService.class
+com\vityarthi\campus\model\Student.class
+com\vityarthi\campus\model\Booking.class
+com\vityarthi\campus\service\ReportService.class
+com\vityarthi\campus\service\AppDataStore.class
+com\vityarthi\campus\ui\CampusConsole.class
